@@ -6,6 +6,4 @@
 
 **恢复英文：**Steam 库 → 右键 Hyperbolica → 属性 → 已安装文件 → 验证游戏文件完整性。
 
-测试版尚未完成全流程实机验证。
-
 [下载汉化 ZIP](https://github.com/Souls-R/hyperbolica-zh/releases/download/v0.1.0-beta/Hyperbolica-zh-CN-v0.1.0-beta-steam-8675290.zip) · [说明与反馈](https://github.com/Souls-R/hyperbolica-zh)

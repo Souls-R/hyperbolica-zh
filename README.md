@@ -18,6 +18,6 @@ Steam 库 → 右键 Hyperbolica → 属性 → 已安装文件 → **验证游�
 
 游戏更新或验证文件可能清除汉化；修改相同资源的其他 Mod 会互相覆盖。
 
-目前为测试版，尚未完成全流程实机验证。译文由 AI 生成并交叉审校。
+目前为测试版。译文由 AI 生成并交叉审校。
 
 [反馈问题](https://github.com/Souls-R/hyperbolica-zh/issues) · [术语表](glossary.json) · [参考资料](references.txt) · [版权与字体许可](THIRD_PARTY_NOTICES.txt)
