@@ -1,0 +1,9 @@
+Hyperbolica Simplified Chinese font modifications, v0.1.0-beta
+
+Raleway Latin outlines retained; Noto Sans SC Chinese glyphs added at weights 300/400/500.
+Roboto Mono from OFL source commit 111eb14e367888c9374da4da0b018e72cf8ac46d provides the mono Latin glyphs at weights 400/500.
+Font family names changed to Hyperbolica Local Sans/Mono with the corresponding weight.
+Original game global line metrics retained; Chinese outlines, spacing and all used text advances match the tested local patch.
+Ubuntu Mono glyphs are not incorporated into the modified public fonts.
+All five modified fonts are distributed under SIL Open Font License 1.1.
+No license is granted here for the game assets containing the fonts.

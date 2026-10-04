@@ -1,0 +1,58 @@
+Hyperbolica 简体中文汉化 — 参考来源
+
+翻译决策
+术语表是逐句翻译时的参考，不作全文机械替换。普通数学名词 apeirogon
+译为“无限边形”，游戏中的文明与地名使用“无限边国”；hyperbolic 按
+数学语境译为“双曲”，日常话语中的夸张含义按上下文处理。
+人物及地点名称直接核对游戏中的玩家可见英文文字，不依据内部资源名命名。
+Dee Sitter 与 de Sitter、MC D-ROM 与 CD-ROM 等双关是译者的语境推断，
+不作为开发者确认的设定宣称。
+
+游戏官方信息
+https://store.steampowered.com/app/1256230/Hyperbolica/
+https://codeparade.itch.io/hyperbolica
+CodeParade 对话系统开发视频：https://www.youtube.com/watch?v=DlL_20x0QH8
+
+几何与投影
+https://mathworld.wolfram.com/HyperbolicGeometry.html
+https://mathworld.wolfram.com/Apeirogon.html
+https://mathworld.wolfram.com/PlatonicSolid.html
+清华大学出版社教材（球极投影）：
+https://www.tup.tsinghua.edu.cn/upload/books/yz/086767-01.pdf
+北京大学讲义（球极投影）：
+https://math.pku.edu.cn/teachers/wangjj/2023fall/18_moebius_transformation.pdf
+IHO S-32 中英术语（球心投影）：
+https://portal.iho.int/iho-ohi/S32/engChnView.php?page=37
+台湾航测遥感分署材料（正射投影）：
+https://www.asrs.gov.tw/File.aspx?fno=66200
+清华大学论文（测地线）：
+https://cg.cs.tsinghua.edu.cn/people/~Yongjin/2015-geodesic-survey.pdf
+
+科学双关
+NASA 星团说明（球状星团）：
+https://science.nasa.gov/universe/star-clusters-inside-the-universes-stellar-collections/
+游戏里的品牌、食物和人物双关在保持语义的基础上采用中文表达，
+例如 Lil' Endian → 小端哥、Ellipticberry Pi → 椭圆莓π派。
+
+中文排版
+W3C《中文排版需求》工作草稿：
+https://www.w3.org/TR/clreq/#prohibition_rules_for_line_start_end
+用于行首、行尾禁则的设计参考，工作草稿不宣称为正式标准。
+Unity 水平自动换行说明：
+https://docs.unity3d.com/cn/2019.1/ScriptReference/HorizontalWrapMode.Wrap.html
+Unity 动态字体说明：
+https://docs.unity.cn/cn/2021.3/Manual/class-Font.html
+OpenType 字体度量：
+https://learn.microsoft.com/en-us/typography/opentype/spec/os2
+
+公开版字体来源
+Raleway：https://github.com/google/fonts/tree/main/ofl/raleway
+Noto Sans SC：https://github.com/google/fonts/tree/main/ofl/notosanssc
+Roboto Mono 官方 OFL 固定版本：
+https://github.com/googlefonts/RobotoMono/tree/111eb14e367888c9374da4da0b018e72cf8ac46d
+SIL Open Font License FAQ：https://openfontlicense.org/ofl-faq/
+完整字体许可见 licenses 文件夹。
+
+恢复英文
+Steam 官方验证游戏文件指引：
+https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB

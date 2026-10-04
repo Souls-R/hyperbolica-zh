@@ -1,0 +1,28 @@
+Hyperbolica 简体中文汉化 v0.1.0-beta
+
+适用：Hyperbolica 1.1.9，Windows Steam 版，Build ID 8675290。
+
+本测试版汉化22个文本资源、3,585条显示行，包括菜单、NPC对白、选择项、纪念品和提示。贴图中的英文保留原样。
+
+安装方式：关闭游戏，将包内Hyperbolica_Data合并到Hyperbolica.exe所在目录，完整替换sharedassets0.assets和level0至level11，共13个同名资源文件。替换不写入用户存档。可选备份这13个原版文件到游戏目录外。
+
+更新汉化时完整替换新版13个文件。修改相同资源的其他补丁会互相覆盖；Steam更新或验证游戏文件可能清除汉化。游戏Build ID改变后，请确认对应汉化版本。
+
+恢复英文：Steam库中右键Hyperbolica → 属性 → 已安装文件 → 验证游戏文件完整性。
+Steam官方指引：https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB
+
+翻译初稿由AI生成，经统一术语表、参考资料核对、多轮AI交叉审校及脚本结构检查。对白换行与中文禁则在构建时处理，保留剧情控制结构。
+
+验证进度：此前测试构建的菜单、存档和一条黄色NPC长对白已通过实机检查；尚未完成全部剧情、分支、结局和VR模式的全流程验收。
+
+公开版字体采用SIL OFL 1.1的Raleway、Roboto Mono与Noto组合。字体构建及静态检查已完成，中文轮廓、字宽和原UI全局度量与此前测试构建一致；两份等宽字体的拉丁字形改用官方OFL Roboto Mono，并适配原界面的固定框。公开字体版尚未实机复核。字体说明与许可见THIRD_PARTY_NOTICES.txt及licenses目录。
+
+非官方说明：本项目与CodeParade无官方关联。Hyperbolica及发布包中原游戏内容的权利归CodeParade；13个修改后资源包含原游戏未修改的内容。字体OFL许可仅适用于字体，不为游戏资源授予新许可；本项目不声称已取得游戏资源再分发授权。
+
+项目：https://github.com/Souls-R/hyperbolica-zh
+本版下载：https://github.com/Souls-R/hyperbolica-zh/releases/tag/v0.1.0-beta
+SHA-256校验清单：https://github.com/Souls-R/hyperbolica-zh/releases/download/v0.1.0-beta/SHA256SUMS.txt
+术语表：https://github.com/Souls-R/hyperbolica-zh/blob/main/glossary.json
+参考来源：https://github.com/Souls-R/hyperbolica-zh/blob/main/references.txt
+字体说明：https://github.com/Souls-R/hyperbolica-zh/blob/main/THIRD_PARTY_NOTICES.txt
+字体许可：https://github.com/Souls-R/hyperbolica-zh/tree/main/licenses

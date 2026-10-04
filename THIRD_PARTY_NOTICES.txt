@@ -1,0 +1,39 @@
+Hyperbolica 简体中文汉化 — 第三方资源说明
+
+游戏
+Hyperbolica 由 CodeParade 开发。游戏及其原有资源的版权归原权利人。
+此项目为非官方文本汉化，和 CodeParade 无官方关联。
+资源覆盖包需要已安装的正版游戏，不包含游戏可执行程序。
+修改后的资源文件仍包含原游戏内容；本项目不对原游戏内容授予新的许可，
+也不以本说明声明已取得原游戏资源的再分发授权。
+游戏页面：https://store.steampowered.com/app/1256230/Hyperbolica/
+
+修改后的内嵌字体
+所有公开版修改字体均采用 SIL Open Font License 1.1。
+字体许可单独适用，不适用于游戏资源。
+
+Raleway — Copyright 2010 The Raleway Project Authors (impallari@gmail.com),
+with Reserved Font Name "Raleway".
+原拉丁字形保留；新增 Noto Sans SC 中文字形。
+修改字体名称为 Hyperbolica Local Sans 300 / 400 / 500。
+完整许可见 licenses/Raleway-OFL.txt。
+
+Roboto Mono — Copyright 2015 The Roboto Mono Project Authors
+(https://github.com/googlefonts/robotomono).
+公开版使用官方 OFL 版本，权重 400 / 500，新增 Noto Sans SC 中文字形。
+Roboto Mono 400 的拉丁字形经过尺寸适配，以匹配原游戏的固定文字框。
+修改字体名称为 Hyperbolica Local Mono 400 / 500。
+完整许可见 licenses/RobotoMono-OFL.txt。
+固定来源版本：111eb14e367888c9374da4da0b018e72cf8ac46d。
+
+Noto Sans SC — Copyright 2014-2021 Adobe (http://www.adobe.com/),
+with Reserved Font Name 'Source'.
+中文字体来源：https://github.com/google/fonts/tree/main/ofl/notosanssc
+完整许可见 licenses/NotoSansSC-OFL.txt。
+
+修改字体的完整名称不使用以上 Reserved Font Names。
+发布包不分发合并 Ubuntu Mono / Noto 字体。
+
+翻译制作
+翻译初稿与交叉审校使用 AI，辅以术语表、参考资料及结构和排版检查。
+测试范围见 README 和对应 Release；欢迎反馈问题。
